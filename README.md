@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pradeepa
 - 👀 I’m interested in Coding
-- 🌱 I had completed B.Sc Physics, I’m currently learning Java 
-- 💞️ I’m looking for opportunity in IT field
+- 🌱 I had completed B.Sc Physics 
+- 💞️ Java Developer
 - 📫 Reach me at pradeepapalanichamybsc@gmail.com
 
 <!---
